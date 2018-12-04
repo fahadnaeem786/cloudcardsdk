@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/fahadnaeem786/cloudcardsdk"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Fahad Naeem" => "fahadnaeem4844@gmail.com" }
-  s.source           = { :git => "https://github.com/fahadnaeem786/cloudcardsdk/blob/1.0.0/CloudCardSDK.zip", :tag => "1.0.0" }
+  s.source           = { :git => "https://github.com/fahadnaeem786/cloudcardsdk.git", :tag => "1.0.2" }
 
   s.platform = :ios
   s.ios.deployment_target = '9.0'
